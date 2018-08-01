@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 
 
 saaaaaaaaaaaaaaaaaaaa
 
 
 
-=======
->>>>>>> test sub
+
 今天你要干什么呢，你问我 我也不知道呀
 
 asdkjalkkklkklkasd
@@ -16,8 +14,15 @@ asdkjalkkklkklkasd
 sadasdasdasdsds
 
 
+sadasdasdasdsds
+
+jajsdljlksd
+
+
+
 daasdasdsad
 gsdsadsdadsad
+
 
 
 
@@ -28,4 +33,7 @@ asdasdassadsadasd
 
 
 wo草拟你几级
+
+
+asdasdassadsadasd
 
